@@ -1,6 +1,8 @@
 # island-counter
 Small console application, which counts "islands" of "1"s in a matrix, assessment test task on node.js
 
+DFS algorithm is used.
+
 # How to run
 - node island-counter.js "1,0,1;1,0,0;"
 
